@@ -1,0 +1,6 @@
+IPython notebooks are interactive and can be viewed as html without installing anything on your machine. 
+
+Go to http://nbviewer.ipython.org and give it the github link to the .ipynb file, and it will give you back the 
+notebook in a form you can play with, i.e. 
+
+http://nbviewer.ipython.org/github/szeitlin/tmamm/blob/EDA/db/EDA1.ipynb

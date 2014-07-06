@@ -1,7 +1,0 @@
-#don't want any extra R files!
-
-*.Rdata
-*.Rhistory
-*.idea
-
-
